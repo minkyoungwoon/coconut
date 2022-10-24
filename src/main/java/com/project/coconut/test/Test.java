@@ -1,7 +1,7 @@
 package com.project.coconut.test;
 
 public class Test {
-
-    String mkw = "mkw";
-
+    public static void main(String[] args) {
+        System.out.println("장경령");
+    }
 }
